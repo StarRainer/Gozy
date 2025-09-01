@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.jlu.gozy</groupId>
-    <artifactId>gozy-memeber</artifactId>
+    <artifactId>gozy-member</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>gozy-memeber</name>
     <description>gozy-memeber</description>

@@ -11,7 +11,7 @@
 
     <modules>
         <module>gozy-coupon</module>
-        <module>gozy-memeber</module>
+        <module>gozy-member</module>
         <module>gozy-order</module>
         <module>gozy-product</module>
         <module>gozy-ware</module>
